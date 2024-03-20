@@ -1,0 +1,290 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington  BR5",
+			"picture":"images/prop1pic1small.jpg",
+			"url":"/properties/prop1",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+      ,"imageGallery":[
+        {
+          "original": "/images/property1/largePics/pic1.png",
+          "thumbnail": "/images/property1/thumbnails/pic1th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic2.png",
+          "thumbnail": "/images/property1/thumbnails/pic2th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic3.png",
+          "thumbnail": "/images/property1/thumbnails/pic3th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic4.png",
+          "thumbnail": "/images/property1/thumbnails/pic4th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic5.png",
+          "thumbnail": "/images/property1/thumbnails/pic5th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic6.png",
+          "thumbnail": "/images/property1/thumbnails/pic6th.png"
+        },{ 
+          "original": "/images/property1/largePics/pic7.png",
+          "thumbnail": "/images/property1/thumbnails/pic7th.png"
+        }]
+        ,"floorPlan": "/images/floorplan/prop1floorplan.png"  
+      ,"mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2146.064518092249!2d0.0807179431914336!3d51.38754223150791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab7793523149%3A0x488fd234b7d6ff73!2s22%20Priory%20Ave%2C%20Petts%20Wood%2C%20Orpington%20BR5%201JF%2C%20UK!5e0!3m2!1sen!2slk!4v1704028149362!5m2!1sen!2slk"},
+      
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"images/prop2pic1small.jpg",
+			"url":"/properties/prop2",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+            ,"imageGallery":[
+              {
+                "original": "/images/property2/largePics/pic1.png",
+                "thumbnail": "/images/property2/thumbnails/pic1th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic2.png",
+                "thumbnail": "/images/property2/thumbnails/pic2th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic3.png",
+                "thumbnail": "/images/property2/thumbnails/pic3th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic4.png",
+                "thumbnail": "/images/property2/thumbnails/pic4th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic5.png",
+                "thumbnail": "/images/property2/thumbnails/pic5th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic6.png",
+                "thumbnail": "/images/property2/thumbnails/pic6th.png"
+              },{ 
+                "original": "/images/property2/largePics/pic7.png",
+                "thumbnail": "/images/property2/thumbnails/pic7th.png"
+              }]
+        ,"floorPlan": "/images/floorplan/prop2floorplan.png"      
+        ,"mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40636.99563883579!2d0.022094373863928717!3d51.377253409823744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab091574bbd7%3A0x12eb74ad89922e5b!2sOrpington%2C%20UK!5e0!3m2!1sen!2slk!4v1704028454116!5m2!1sen!2slk"  
+        },
+        {
+          "id": "prop3",
+          "type": "Apartment",
+          "bedrooms": 1,
+          "price": 280000,
+          "tenure": "Leasehold",
+          "description": "Modern one-bedroom apartment with stunning city views. The property features an open-plan kitchen and living area, a spacious bedroom, and a contemporary bathroom. Residents have access to on-site amenities, including a gym and communal garden. Conveniently located near public transportation and local shops.",
+          "location": "City Centre, London SW1A",
+          "picture": "images/prop3pic1small.jpg",
+          "url": "/properties/prop3",
+          "added": {
+            "month": "November",
+            "day": 5,
+            "year": 2022
+          }
+          ,"imageGallery":[
+            {
+              "original": "/images/property3/largePics/pic1.png",
+              "thumbnail": "/images/property3/thumbnails/pic1th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic2.png",
+              "thumbnail": "/images/property3/thumbnails/pic2th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic3.png",
+              "thumbnail": "/images/property3/thumbnails/pic3th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic4.png",
+              "thumbnail": "/images/property3/thumbnails/pic4th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic5.png",
+              "thumbnail": "/images/property3/thumbnails/pic5th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic6.png",
+              "thumbnail": "/images/property3/thumbnails/pic6th.png"
+            },{ 
+              "original": "/images/property3/largePics/pic7.png",
+              "thumbnail": "/images/property3/thumbnails/pic7th.png"
+            }],
+            "floorPlan": "/images/floorplan/prop3floorplan.png"
+            ,"mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9933.259719848833!2d-0.13748113407355803!3d51.50743800461083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ce37bbdb95%3A0x5120415568fd2d8b!2sCentral%20London%2C%20London%20SW1A%202DR%2C%20UK!5e0!3m2!1sen!2slk!4v1704028573518!5m2!1sen!2slk"
+        },
+        {
+          "id": "prop4",
+          "type": "House",
+          "bedrooms": 4,
+          "price": 950000,
+          "tenure": "Freehold",
+          "description": "Spacious four-bedroom family home with a large backyard. The property includes a modern kitchen, multiple living areas, and a master bedroom with an ensuite bathroom. Close to schools, parks, and shopping centers. Ample parking space available.",
+          "location": "Green Lane, Manchester MD4",
+          "picture": "images/prop4pic1small.jpg",
+          "url": "/properties/prop4",
+          "added": {
+            "month": "December",
+            "day": 20,
+            "year": 2022
+          }
+          ,"imageGallery":[
+            {
+              "original": "/images/property4/largePics/pic1.png",
+              "thumbnail": "/images/property4/thumbnails/pic1th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic2.png",
+              "thumbnail": "/images/property4/thumbnails/pic2th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic3.png",
+              "thumbnail": "/images/property4/thumbnails/pic3th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic4.png",
+              "thumbnail": "/images/property4/thumbnails/pic4th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic5.png",
+              "thumbnail": "/images/property4/thumbnails/pic5th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic6.png",
+              "thumbnail": "/images/property4/thumbnails/pic6th.png"
+            },{ 
+              "original": "/images/property4/largePics/pic7.png",
+              "thumbnail": "/images/property4/thumbnails/pic7th.png"
+            }]
+            ,"floorPlan": "/images/floorplan/prop4floorplan.png"
+            ,"mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d277.7779777243416!2d-2.358610842823661!3d53.485432200266466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487baecff422b595%3A0x561c5c0357312dba!2sGreen%20Ln%2C%20Eccles%2C%20Manchester%2C%20UK!5e0!3m2!1sen!2slk!4v1704028709363!5m2!1sen!2slk"
+        },
+        {
+          "id": "prop5",
+          "type": "Flat",
+          "bedrooms": 3,
+          "price": 600000,
+          "tenure": "Leasehold",
+          "description": "Luxurious three-bedroom flat with panoramic sea views. The property features high-end finishes, a spacious living area, and a private balcony overlooking the waterfront. Residents have access to a communal pool and fitness center. Close to beaches, restaurants, and entertainment.",
+          "location": "Ocean Drive,South Point, Miami FL33",
+          "picture": "images/prop5pic1small.jpg",
+          "url": "/properties/prop5",
+          "added": {
+            "month": "January",
+            "day": 8,
+            "year": 2023
+          }
+          ,"imageGallery":[
+            {
+              "original": "/images/property5/largePics/pic1.png",
+              "thumbnail": "/images/property5/thumbnails/pic1th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic2.png",
+              "thumbnail": "/images/property5/thumbnails/pic2th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic3.png",
+              "thumbnail": "/images/property5/thumbnails/pic3th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic4.png",
+              "thumbnail": "/images/property5/thumbnails/pic4th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic5.png",
+              "thumbnail": "/images/property5/thumbnails/pic5th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic6.png",
+              "thumbnail": "/images/property5/thumbnails/pic6th.png"
+            },{ 
+              "original": "/images/property5/largePics/pic7.png",
+              "thumbnail": "/images/property5/thumbnails/pic7th.png"
+            }]
+            ,"floorPlan": "/images/floorplan/prop5floorplan.png"
+            ,"mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.0618181185314!2d-80.13578112514385!3d25.76852160832426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b4929f108bd7%3A0xfa10852c65eae94!2sOcean%20Dr%2C%20Miami%20Beach%2C%20FL%2033139%2C%20USA!5e0!3m2!1sen!2slk!4v1704028775797!5m2!1sen!2slk"
+        },
+        {
+          "id": "prop6",
+          "type": "Townhouse",
+          "bedrooms": 3,
+          "price": 720000,
+          "tenure": "Freehold",
+          "description": "Charming three-bedroom townhouse with a private garden. The property boasts a modern kitchen, elegant living spaces, and a master bedroom with a walk-in closet. Situated in a quiet neighborhood with easy access to schools, parks, and public transportation.",
+          "location": "Maple Street, Sydney NS4",
+          "picture": "images/prop6pic1small.jpg",
+          "url": "/properties/prop6",
+          "added": {
+            "month": "February",
+            "day": 15,
+            "year": 2023
+          }
+          ,"imageGallery":[
+            {
+              "original": "/images/property6/largePics/pic1.png",
+              "thumbnail": "/images/property6/thumbnails/pic1th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic2.png",
+              "thumbnail": "/images/property6/thumbnails/pic2th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic3.png",
+              "thumbnail": "/images/property6/thumbnails/pic3th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic4.png",
+              "thumbnail": "/images/property6/thumbnails/pic4th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic5.png",
+              "thumbnail": "/images/property6/thumbnails/pic5th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic6.png",
+              "thumbnail": "/images/property6/thumbnails/pic6th.png"
+            },{ 
+              "original": "/images/property6/largePics/pic7.png",
+              "thumbnail": "/images/property6/thumbnails/pic7th.png"
+            }]
+            ,"floorPlan": "/images/floorplan/prop6floorplan.png"
+            ,"mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2764.3008567019187!2d-60.16527812420071!3d46.14475488777511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b67e4b6da0830b5%3A0xbc831994c6cc9270!2sMaple%20St%2C%20Sydney%2C%20NS%2C%20Canada!5e0!3m2!1sen!2slk!4v1704028847175!5m2!1sen!2slk" 
+        },
+        {
+          "id": "prop7",
+          "type": "House",
+          "bedrooms": 3,
+          "price": 1200000,
+          "tenure": "Leasehold",
+          "description": "Stunning two-bedroom penthouse with breathtaking city skyline views. The property features floor-to-ceiling windows, a modern kitchen, and a spacious terrace for outdoor entertaining. Located in a prime downtown location with easy access to dining, shopping, and cultural attractions.",
+          "location": "High Street, New York IW3",
+          "picture": "images/prop7pic1small.jpg",
+          "url": "/properties/prop7",
+          "added": {
+            "month": "February",
+            "day": 28,
+            "year": 2023}
+            ,"imageGallery":[
+              {
+                "original": "/images/property7/largePics/pic1.png",
+                "thumbnail": "/images/property7/thumbnails/pic1th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic2.png",
+                "thumbnail": "/images/property7/thumbnails/pic2th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic3.png",
+                "thumbnail": "/images/property7/thumbnails/pic3th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic4.png",
+                "thumbnail": "/images/property7/thumbnails/pic4th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic5.png",
+                "thumbnail": "/images/property7/thumbnails/pic5th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic6.png",
+                "thumbnail": "/images/property7/thumbnails/pic6th.png"
+              },{ 
+                "original": "/images/property7/largePics/pic7.png",
+                "thumbnail": "/images/property7/thumbnails/pic7th.png"
+              }]
+              ,"floorPlan": "/images/floorplan/prop7floorplan.png"
+              ,"mapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.6493223637392!2d-74.00426373040395!3d40.74888601420296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259b79dab378b%3A0x1fcae6420f16d390!2s249%2010th%20Ave%2C%20New%20York%2C%20NY%2010001%2C%20USA!5e0!3m2!1sen!2slk!4v1704029004122!5m2!1sen!2slk"
+        }    
+    ]
+}
